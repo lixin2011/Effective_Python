@@ -1,3 +1,7 @@
+"""
+第1章 第5条 用辅助函数取代复杂的表达式
+"""
+
 from urllib.parse import parse_qs
 
 my_values = parse_qs("red=5&blue=0&green=",

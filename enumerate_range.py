@@ -1,3 +1,7 @@
+"""
+第1章 第7条 尽量用enumerate取代range
+"""
+
 from random import randint
 
 rand_bits = 0

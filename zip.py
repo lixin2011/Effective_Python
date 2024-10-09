@@ -1,3 +1,8 @@
+"""
+第1章 第8条 用zip函数同时遍历两个迭代器
+"""
+
+
 names = ["cecilia", "lise", "marie"]
 counts = [len(n) for n in names]
 print(counts)
